@@ -38,6 +38,8 @@
           <string>sumupmerchant</string>
           <string>yammer</string>
           <string>salesforce</string>
+          <string>citnow.service</string>
+          <string>citnow.sales</string>
         </array>
       </config-file>
     </platform>
